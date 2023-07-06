@@ -6,5 +6,5 @@ def hello_world():
     return 'Hello, World!'
 #installed gunicorn
 
-if __name__=='__main__':
-    app.run()
+#if __name__=='__main__':
+ #   app.run()
